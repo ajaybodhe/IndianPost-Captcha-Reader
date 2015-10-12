@@ -7,10 +7,14 @@ Captcha Recognition using pytesser & tesseract
 
 1. Install Pillow :
 Pillow is a fork of PIL (Python Image Processing Library) that has support for opening, manipulating, and saving many different image file formats.
+
 reference : http://pillow.readthedocs.org/en/latest/installation.html
+
 A. sudo apt-get install python-dev python-setuptools
+
 B. sudo apt-get install libtiff5-dev libjpeg8-dev zlib1g-dev \
     libfreetype6-dev liblcms2-dev libwebp-dev tcl8.6-dev tk8.6-dev python-tk
+    
 C. sudo pip install pillow
 
 2. Install tesseract :
